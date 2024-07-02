@@ -25,7 +25,7 @@ NotesApp is a note-taking application that allows users to create, edit, and del
 
 1. **Clone this Repository**
     ```bash
-    git clone https://github.com/adeiskandarzulkarnaen/notesappmobile.git
+    git clone https://github.com/fairuzakhdan/notes-app.git
     cd notesappmobile
     ```
 
